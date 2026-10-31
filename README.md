@@ -49,7 +49,7 @@ Agents are **non-human principals acting on your behalf** — identity is the co
 
 - [Descope — Diving Into the MCP Authorization Specification](https://descope.com/blog/post/mcp-auth-spec) — Implementation-level walkthrough of MCP's OAuth 2.1 flows (DCR, PKCE, resource indicators).
 - [Microsoft Entra Agent ID](https://learn.microsoft.com/en-us/entra/agent-id/what-is-microsoft-entra-agent-id) — Identity lifecycle for agents in Entra: stable agent IDs, no passwords, Zero Trust controls for non-human actors.
-- [MCP — Authorization specification](https://modelcontextprotocol.io/specification/draft/basic/authorization) — Official auth design: MCP server as OAuth resource server, separate authorization server, token audience binding.
+- [MCP — Authorization specification (2026-07-28)](https://modelcontextprotocol.io/specification/2026-07-28/basic/authorization) — Official auth design: MCP server as OAuth resource server, separate authorization server, token audience binding.
 - [OpenID Connect for Agents (OIDC-A) 1.0 (2025)](https://arxiv.org/abs/2509.25974) — Proposed OIDC extension carrying agent-specific claims (type, model, provider) for accountable agent identity.
 
 ---
