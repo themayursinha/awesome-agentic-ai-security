@@ -36,6 +36,7 @@ Tools on the **action path** (tool calls, egress, secrets) — not only filterin
 - [Adrian](https://github.com/secureagentics/Adrian) — Runtime security monitoring and control for AI agents; catches malicious tool use and policy violations.
 - [Doberman-Core](https://github.com/fu351/Doberman-Core) — Agent security framework: guardrails, prompt-injection handling, and policy around tool execution.
 - [DodoGuard](https://github.com/dodoguardai/dodoguard) — Full-lifecycle agent security for self-hosted low-code platforms (Dify, Coze, FastGPT, n8n, HiAgent): tool-call policy, content screening, audit.
+- [HOL Guard](https://hol.org/guard) — Apache-2.0 local-first security layer for coding agents that reviews supported shell, file, package, skill, and MCP actions, applies policy-based block or approval decisions, and keeps local receipts.
 - [Invariant Labs](https://invariantlabs.ai/) — Runtime guardrails and tracing for agent workflows (commercial; reference architecture for tool-call policies).
 - [MCP Visor](https://github.com/themayursinha/mcp-visor) — Declarative YAML policy on an MCP proxy: parse, redact, chain rules, approval gates, hash-chained audit.
 - [PipeLock](https://github.com/luckyPipewrench/pipelock) — Open-source agent firewall for MCP and agent egress; scans and constrains outbound/tool traffic.
